@@ -1,2 +1,2 @@
 # Workbrain
-repository for workbrain automation tea,
+repository for workbrain automation team
